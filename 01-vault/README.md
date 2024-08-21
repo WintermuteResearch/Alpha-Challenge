@@ -1,5 +1,5 @@
 # Vault - Tier 1
-You are looking through an old version of the OpenZeppelin implementation of ERC-4246 and notice a vulnerability that requires frontrunning an innocent user. You have been granted a large amount of ETH (say e.g. 1k ETH, but you are free to choose the amount :) ) and want to set up a whitehat bot to execute this exploit and return the funds to the user.
+You are looking through an old version of the OpenZeppelin implementation of ERC-4626 and notice a vulnerability that requires frontrunning an innocent user. You have been granted a large amount of ETH (say e.g. 1k ETH, but you are free to choose the amount :) ) and want to set up a whitehat bot to execute this exploit and return the funds to the user.
 
 
 - a) Describe the vulnerability and the payoffs for an attacker.
