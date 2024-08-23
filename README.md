@@ -1,4 +1,10 @@
 # Wintermute Alpha Challenge
+
+[![Telegram Chat][tg-badge]][tg-url]
+
+[tg-badge]: https://img.shields.io/endpoint?color=neon&logo=telegram&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2F%2Bly4MagsaeQ1lOTA8
+[tg-url]: https://t.me/+ly4MagsaeQ1lOTA8
+
 The Alpha Challenge is our experimental way to reach two goals:
 - to provide a way for the crypto community to test their on-chain analysis skills
 - to find the best talents for roles requiring a researcher mindset at Wintermute and portfolio/friendly companies
@@ -10,6 +16,7 @@ The Alpha Challenge is our experimental way to reach two goals:
 2. [Import this repository](https://github.com/new/import) as a private one
 3. Add `frankresearcher` and `zakriaabdi` as [collaborators to this private repo](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository#inviting-a-collaborator-to-a-personal-repository)
 4. Start solving
+5. Request access to the Telegram group by using the badge at the beginning of the README
 
 ### How to solve
 Each solution should be placed in its corresponding directory as a text file, including both the answers and their rationale. Additionally, include any code files that are part of the solution. It's probably better to be more verbose than brief in how results were achieved in order to analyze possible mistakes later or give a more accurate score.
@@ -22,8 +29,15 @@ As a general guideline, Tier 1, Tier 2, and Tier 3 questions are worth 5, 10, an
 ### Deadline
 We will review the state of the `main` branch of private repos based on the last commit at 11:59 PM UTC on September 4, 2024. Any commits after the deadline date will be ignored.
 
+### How to be qualified as a winner
+To qualify as a winner, participants need to score at least 60 points based on their work in a private repo by the deadline and rank in the Top 25 by points. We will reach out to the Top 25 via email, so make sure the application form is filled out before the deadline.
+
+Please avoid posting any solutions in the Telegram group or elsewhere until the challenge ends, as this could lead to disqualification from any awards and ensures the integrity of the competition. It's also important to not push anything to a public repo until the deadline, as this could result in disqualification.
+
+We ask all participants to double-check that all collaborators have been added before the deadline. In some cases, after changing the repo name collaborators can lose access, therefore they will not be able to review solutions. It is the participant's responsibility to ensure that review is possible.
+
 ### Support
-We will add all participants who filled out our form to a Telegram group, where we will post organizational updates, and participants can ask questions if any tasks are unclear. Please avoid posting any solutions in the Telegram group or elsewhere until the challenge ends, as this could lead to disqualification from any awards and ensures the integrity of the competition.
+We add all participants who filled out our form to a Telegram group, where we will post organizational updates, and participants can ask questions if any tasks are unclear. Participants can also leave requests to join the group using the Telegram badge at the start of this README; everyone who has already filled out the application form will be added shortly.
 
 ### Try sim for this challenge
 sim Studio enables fast indexing and instrumentation of transactions.
